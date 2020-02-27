@@ -1,0 +1,19 @@
+Your identification has been saved in /c/Users/tt05502/.ssh/id_rsa.
+Your public key has been saved in /c/Users/tt05502/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:Fc4CaPXLjbbnEWAx1Cv7ZuLhLwUou/WvwNmMyun8ylY ttermoellen@googlemail.com
+The key's randomart image is:
++---[RSA 4096]----+
+|     oo.+..      |
+|    o  o =..     |
+|   .   .= +.     |
+|    . .ooB.      |
+|     o  S+o      |
+|    ..E*....     |
+|     +=.=oo      |
+|   +oo o+++.     |
+|   oOo..+O+      |
++----[SHA256]-----+
+
+$ eval $(ssh-agent -s)
+Agent pid 14716
